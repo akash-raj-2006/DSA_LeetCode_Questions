@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
