@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
