@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
