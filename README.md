@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
