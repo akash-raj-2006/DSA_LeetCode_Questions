@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
