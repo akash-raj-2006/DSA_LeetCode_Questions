@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
