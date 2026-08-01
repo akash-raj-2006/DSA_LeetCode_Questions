@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0796-rotate-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
