@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0242-valid-anagram) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/akash-raj-2006/DSA_LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
